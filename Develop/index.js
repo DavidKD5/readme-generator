@@ -22,7 +22,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please provide instruction and examples for use",
+    message: "Please provide how to use instructions",
     name: "usage",
   },
 
@@ -38,10 +38,10 @@ const questions = [
     name: "tests",
   },
   {
-    type: "checkbox",
+    type: "list",
     message: "What license would you like to include for your project? ",
     name: "license",
-    choices: ["Apache License 2.0", "GNU GPLv3", "MIT", "ISC License", "None"],
+    choices: ["Apache", "CC0", "GNU GPL v3", "MIT License", "None"],
   },
 ];
 
