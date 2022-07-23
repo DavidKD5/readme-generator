@@ -61,10 +61,6 @@ function generateMarkdown(data) {
 
   ${data.features}
 
-  ## Credits
-
-  ${data.credits}
-
   ## Tests
 
   ${data.tests}
