@@ -4,9 +4,11 @@
 
   Application generates a README file in the root directory of project. This allows for a simplified  process of creating a README for the developer. A structed file, including screenshots and a table of contents, are created by asking the developer a series of questions.
 
-  ![](assets/images/img1.png)
-  ![](assets/images/img2.png)
-  ![](assets/images/img3.png)
+  
+
+https://user-images.githubusercontent.com/94725701/180583076-18c6cd00-a338-4b20-bc68-dde4632a0a14.mp4
+
+
 
   ## Table of Contents
 
