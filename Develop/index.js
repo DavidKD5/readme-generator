@@ -12,29 +12,29 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please write a description of the project",
+    message: "Please write a description of the project:",
     name: "description",
   },
   {
     type: "input",
-    message: "Please provide the installation process",
+    message: "Please provide info on the installation process:",
     name: "installation",
   },
   {
     type: "input",
-    message: "Please provide how to use instructions",
+    message: "Please provide how to use instructions:",
     name: "usage",
   },
 
   {
     type: "input",
     message:
-      "Please list your collaborates, if any, with links to github profiles",
+      "Please list your collaborates, if any, with links to github profiles:",
     name: "credits",
   },
   {
     type: "input",
-    message: "Please list any tests, if any",
+    message: "Please list any tests, if any:",
     name: "tests",
   },
   {

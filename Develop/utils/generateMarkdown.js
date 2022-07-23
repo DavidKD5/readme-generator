@@ -57,10 +57,6 @@ function generateMarkdown(data) {
 
   ${data.credits}
 
-  ## Features
-
-  ${data.features}
-
   ## Tests
 
   ${data.tests}
